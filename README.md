@@ -1,4 +1,10 @@
-## Hi there 👋
+## My Contribution Graph
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dabson31/dabson31/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dabson31/dabson31/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dabson31/dabson31/output/pacman-contribution-graph.svg">
+</picture>
 
 <!--
 **dabson31/dabson31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
