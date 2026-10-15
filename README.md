@@ -2,7 +2,7 @@
 
 ## About Me
 
-I try sometimes. 🙃
+I try sometimes 😝
 
 ## Tech Stack
 
